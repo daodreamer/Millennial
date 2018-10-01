@@ -1,7 +1,7 @@
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'DaoDreamer'
 
 google-ID: 'UA-112060364-2'
 
@@ -25,7 +25,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'If you like my article, you could share this article or my blog to your friends!'
 
 related_posts: 'You may also enjoy...'
 
