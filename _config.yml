@@ -1,4 +1,6 @@
 # Site Build Settings
+livere: true
+livere_uid: "MTAyMC80MDEwOS8xNjYzNg=="
 
 # jekyll-paginate configuration
 paginate:            3
@@ -17,9 +19,11 @@ sass:
 title:		           "Dream of DaoDreamer"
 description:	       "Welcome to my dream."
 author:              "DaoDreamer"
+url:      "https://daodreamer.github.io"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
 
-baidu_tongji_id: 202265785f84bbb39ba050c572b7567f
+baidu: true
+baidu-url: "202265785f84bbb39ba050c572b7567f"
