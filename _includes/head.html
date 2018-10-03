@@ -27,8 +27,31 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>
 
-  <!-- Google Analytics -->
-  {% include google-analytics.html %}
+ <!-- Baidu Analysis -->
+{% if site.baidu %}
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?202265785f84bbb39ba050c572b7567f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+{% endif %}
+
+<!-- Google Analysis -->
+{% if site.google %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ google-ID }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ google-ID }}');
+</script>
+{% endif %}
 
   <!-- Use Jekyll SEO plugin -->
   {% seo %}

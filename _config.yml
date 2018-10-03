@@ -1,4 +1,6 @@
 # Site Build Settings
+
+# Set comment
 livere: true
 livere_uid: "MTAyMC80MDEwOS8xNjYzNg=="
 
@@ -25,5 +27,6 @@ url:      "https://daodreamer.github.io"
 #feed:
 #  path: rss-feed.xml
 
+# Baidu analysis
 baidu: true
 baidu-url: "202265785f84bbb39ba050c572b7567f"
