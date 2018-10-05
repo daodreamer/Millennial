@@ -30,3 +30,7 @@ url:      "https://daodreamer.github.io"
 # Baidu analysis
 baidu: true
 baidu-url: "202265785f84bbb39ba050c572b7567f"
+
+# Google Analysis
+google: ture
+google-ID: "UA-127071261-1"
