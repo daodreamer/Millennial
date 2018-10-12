@@ -14,6 +14,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'twitter', link: 'https://twitter.com/dreamerdao'}
 - {icon: 'weibo', link: 'https://weibo.com/1604955832/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1'}
 - {icon: 'qq', link: 'https://wpa.qq.com/msgrd?v=3&uin=550247000&site=qq&menu=yes'}
 - {icon: 'envelope', link: 'mailto:550247000@qq.com'}

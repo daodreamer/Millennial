@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two dreams"
+title: "Two Dreams"
 author: "DaoDreamer"
 categories: documentation
 tags: [dream,love,senior school]
