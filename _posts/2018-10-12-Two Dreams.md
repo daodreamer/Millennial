@@ -3,7 +3,7 @@ layout: post
 title: "Two Dreams"
 author: "DaoDreamer"
 categories: documentation
-tags: [dream,love,senior school]
+tags: [documentation,dream,love,senior school]
 image: 2.jpg
 ---
 I would like to write down my two dreams occurred at the night in 10.11.2018 and 10.12.2018 respectively. The dreams, I have to say, are fantastic and dramatic indeed. Perhaps my English is not enough to describe what I want to share to you, but I will try my best to do it.
