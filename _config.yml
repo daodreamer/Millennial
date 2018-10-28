@@ -20,9 +20,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "DaoDreamer"
 description:	       "Welcome to my dream. Copyright 2018 - DaoDreamer."
-author:              "Jekyll&Github. <span id="busuanzi_container_site_uv">
-  Total<span id="busuanzi_value_site_uv"></span>people
-</span>"
+author:              "Jekyll&Github"
 url:      "https://blog.daodreamer.com"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
