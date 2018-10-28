@@ -18,8 +18,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Copyright 2018 - DaoDreamer"
-description:	       "Welcome to my dream."
+title:		           "DaoDreamer"
+description:	       "Welcome to my dream. Copyright 2018 - DaoDreamer"
 author:              "Jekyll&Github"
 url:      "https://blog.daodreamer.com"
 
