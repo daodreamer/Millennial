@@ -197,15 +197,15 @@ image: 5.jpg
 
 > vom = von dem
 >
-> zum = zu dem     zur = zu der
+> zum = zu dem | zur = zu der
 >
 > beim = bei dem
 >
 > durchs = durch das
 >
-> im = in dem     ins = in das
+> im = in dem | ins = in das
 >
-> am = an dem     ans = an das
+> am = an dem | ans = an das
 >
 > aufs = auf das
 >
