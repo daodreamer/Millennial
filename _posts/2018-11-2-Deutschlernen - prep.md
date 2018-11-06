@@ -51,39 +51,39 @@ image: 5.jpg
 
    1. in
 
+      > Das Buch liegt **in** der Schublade.
+      >
+      > Er legt das Buch **in** die Schublade.
+
+   2. an
+
       > Der Mann sitzt **an** dem Tisch.
       >
       > Der Mann setzt das kleine Mädchen **an** den Tisch.
 
-   2. an
+   3. auf
 
       > Das Buch liegt **auf** dem Tisch.
       >
       > Er legt das Buch **auf** den Tisch.
 
-   3. auf
-
-      > Das Buch liegt **in** der Schublade.
-      >
-      > Er legt das Buch **in** die Schublade.
-
    4. über
+
+      > Die Lampe hängt **über** dem Tisch.
+      >
+      > Er hängt die Lampe **über** den Tisch.
+
+   5. vor
 
       > Das Buch liegt **vor** dem Fernseher.
       >
       > Er legt das Buch **vor** den Fernseher.
 
-   5. vor
+   6. hinter
 
       > Der Staubsauger steht **hinter** der Tür.
       >
       > Er stellt den Staubsauger **hinter** die Tür.
-
-   6. hinter
-
-      > Die Lampe hängt **über** dem Tisch.
-      >
-      > Er hängt die Lampe **über** den Tisch.
 
    7. unter
 
